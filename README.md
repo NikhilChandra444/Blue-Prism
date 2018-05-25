@@ -1,2 +1,2 @@
 # Blue-Prism
-my practices on Blue Prism
+My practices on Blue Prism
